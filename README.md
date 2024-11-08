@@ -24,8 +24,8 @@ This is a real-time chat application built using **Node.js** (backend), **Socket
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/real-time-chat-app.git
-   cd real-time-chat-app
+   git clone https://github.com/abhishekrajsingh25/MERN-Chat-App.git
+   cd MERN-Chat-App
    ```
 
 2. **Install Backend Dependencies**
