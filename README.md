@@ -1,7 +1,3 @@
-Here's a sample `README.md` file for a real-time chat application. This file covers an overview of the project, setup instructions, features, and more.
-
----
-
 # Real-Time Chat Application
 
 This is a real-time chat application built using **Node.js** (backend), **Socket.io** (for WebSocket connections), and **React.js** (frontend). The application allows users to join a chat room, send messages, and receive messages in real time.
