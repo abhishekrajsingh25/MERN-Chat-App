@@ -40,6 +40,21 @@ This is a real-time chat application built using **Node.js** (backend), **Socket
    npm install
    ```
 
+4. **Environment Variables Setup**
+   Create a .env file in the root directory of the backend with the following:
+   ```bash
+   PORT = 8747
+   JWT_KEY = "(&$()*$()*($)*()HJHJHJK(_)@(*$(&%&*^)))"
+   ORIGIN = "http://localhost:5173"
+   DATABASE_URL="mongodb://localhost:27017/Chat-App"
+   ```
+
+5. **Environment Variables Setup**
+   Create a .env file in the root directory of the frontend with the following:
+   ```bash
+   VITE_SERVER_URL = "http://localhost:8747"
+   ```
+
 ### Running the Application
 
 1. **Start the Backend Server**
